@@ -1,0 +1,1 @@
+exports.contractListener = require("./contractlistener");
